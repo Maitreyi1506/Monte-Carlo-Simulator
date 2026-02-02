@@ -1,5 +1,0 @@
-01_fetch_ohlc.ipynb: Download Netflix + Disney OHLC, plot candlesticks, compute realized volatility.
-
-02_mc_simulation.ipynb: Fit GBM params from log-returns, run Monte Carlo sims, show fan charts.
-
-03_comparison_metrics.ipynb: Compare NFLX vs Disney distribution tails, VaR, CVaR, Sharpe.
